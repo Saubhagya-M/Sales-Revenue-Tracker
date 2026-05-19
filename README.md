@@ -1,4 +1,5 @@
  Sales-Revenue-Tracker
+ 
  Project Overview
 
 The Sales Revenue Tracker Dashboard is an Excel-based business analytics project designed to monitor sales performance, revenue generation, profit trends, delivery status, and regional sales distribution.
@@ -6,30 +7,51 @@ The Sales Revenue Tracker Dashboard is an Excel-based business analytics project
 This project demonstrates practical skills in:
 
 Data Cleaning
+
 Data Analysis
+
 Pivot Tables
+
 Dashboard Creation
+
 Excel Automation & Reporting
 
 The workbook contains raw sales data, cleaned datasets, pivot-based summaries, and an interactive dashboard for business insights.
 
 Tools & Technologies Used
+
 Microsoft Excel (.xlsm)
+
 Pivot Tables
+
 Pivot Charts
+
 Conditional Formatting
+
 Data Cleaning Techniques
+
 Excel Dashboard Design
+
 Macros Enabled Workbook
+
 Workbook Structure
+
 Sheet Name	Description
+
 Home Page	Landing page and navigation section
+
 DATA(RAW CUM CLEANED)	Contains raw dataset along with cleaned dataset
+
 Revenue by chatagory	Pivot analysis showing profit by product category
+
 Delivery Status by Oder ID	Analysis of delivered vs pending orders
+
 Region vs quantity	Regional quantity sales comparison
+
 Dashboard	Interactive sales dashboard with visual insights
+
 Data Cleaning instructions	Step-by-step data cleaning process documentation
+
 Key Dashboard Insights
 
 The dashboard helps analyze:
@@ -51,44 +73,75 @@ The dashboard helps analyze:
 The dataset was cleaned using Excel techniques such as:
 
 Removing duplicate records
+
 Handling missing values
+
 Replacing null customer names with default values
+
 Formatting inconsistent data
+
 Standardizing categorical fields
+
 Validating numeric columns
+
 Dataset Features
 
 The dataset includes the following attributes:
 
 Order ID
+
 Customer Name
+
 Product
+
 Category
+
 Region
+
 Salesperson
+
 Units Sold
+
 Unit Price
+
 Revenue
+
 Cost
+
 Profit
+
 Target Sales
+
 Payment Mode
+
 Order Status
+
 How to Use
+
 Download the Excel workbook.
+
 Open using Microsoft Excel.
+
 Enable Macros if prompted.
+
 Navigate through sheets using the Home Page.
+
 Explore dashboard visuals and pivot reports.
+
 Project Objectives
 
 This project was created to:
 
 Practice Excel data analytics skills
+
 Build a professional business dashboard
+
 Understand sales performance analysis
+
 Learn data cleaning workflows
+
 Create portfolio-ready analytics projects
+
 Dashboard Preview
 
 Add screenshots of your dashboard here before uploading to GitHub.
@@ -96,16 +149,27 @@ Add screenshots of your dashboard here before uploading to GitHub.
 Suggested screenshots:
 
 Dashboard Overview
+
 Revenue Analysis
+
 Delivery Status Analysis
+
 Region-wise Sales Chart
+
 Skills Demonstrated
+
 Data Cleaning
+
 Business Intelligence
+
 Dashboard Development
+
 Excel Reporting
+
 Pivot Table Analysis
+
 Data Visualization
+
 File Information
 
 Project File: Sales Revenue Tracker.xlsm
@@ -113,9 +177,13 @@ Project File: Sales Revenue Tracker.xlsm
 Future Improvements possible enhancements:
 
 Add slicers for interactivity
+
 Integrate Power Query
+
 Add forecasting models
+
 Automate reports using VBA
+
 Create Power BI version of dashboard
 
 Author:
