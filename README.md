@@ -9,7 +9,6 @@ Data Cleaning
 Data Analysis
 Pivot Tables
 Dashboard Creation
-KPI Tracking
 Excel Automation & Reporting
 
 The workbook contains raw sales data, cleaned datasets, pivot-based summaries, and an interactive dashboard for business insights.
@@ -47,7 +46,6 @@ The dashboard helps analyze:
 
 ✅ Sales target comparison
 
-✅ Business performance KPIs
  Data Cleaning Operations Performed
 
 The dataset was cleaned using Excel techniques such as:
@@ -108,22 +106,20 @@ Dashboard Development
 Excel Reporting
 Pivot Table Analysis
 Data Visualization
-KPI Monitoring
 File Information
 
 Project File: Sales Revenue Tracker.xlsm
 
-Future Improvements
-
-Possible enhancements:
+Future Improvements possible enhancements:
 
 Add slicers for interactivity
 Integrate Power Query
 Add forecasting models
 Automate reports using VBA
 Create Power BI version of dashboard
-Author
 
+Author:
+MUKESH MISHRA
 SAUBHAGYA MUNSI
 
 If you like this project, feel free to ⭐ the repository.
