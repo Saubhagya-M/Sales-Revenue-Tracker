@@ -218,13 +218,13 @@ Possible enhancements:
 
 # Author
 
-Created as an Excel KPI Dashboard and Sales Analytics Project.
+Created as an Excel KPI Dashboard and Sales Analytics Project by SAUBHAGYA MUNSI
 
 ---
 
 # License
 
-This project is for educational and portfolio purposes created by Saubhagya Munsi
+This project is for educational and portfolio purposes.
 
 ---
 
