@@ -28,7 +28,8 @@ The project includes a professional KPI dashboard with metrics such as:
 - Regional Sales Performance
 - Delivery Performance
 - Salesperson Performance
-<img width="735" height="541" alt="image" src="https://github.com/user-attachments/assets/db03e804-38ab-4190-813e-7d33ac73c240" />
+<img width="735" height="546" alt="image" src="https://github.com/user-attachments/assets/fcdc370c-1d25-4870-bad8-8cdd476f7932" />
+
 
 ---
 
