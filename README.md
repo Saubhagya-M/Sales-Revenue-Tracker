@@ -223,7 +223,7 @@ Created as an Excel KPI Dashboard and Sales Analytics Project.
 
 # License
 
-This project is for educational and portfolio purposes.
+This project is for educational and portfolio purposes created by Saubhagya Munsi
 
 ---
 
